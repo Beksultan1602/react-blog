@@ -1,0 +1,10 @@
+.postList {
+	margin-top: 3.125rem;
+	margin-bottom: 1.25rem;
+}
+
+.postListTitle {
+	font-weight: 900;
+	font-size: 46px;
+	color: #1E212C;
+}
