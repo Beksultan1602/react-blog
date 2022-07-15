@@ -1,0 +1,16 @@
+.postForm {
+	margin-top: 3.125rem;
+	margin-bottom: 1.25rem;
+}
+
+.postFormTitle {
+	font-weight: 900;
+	font-size: 46px;
+	color: #1E212C;
+}
+
+.formWrapper {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}
